@@ -1,5 +1,10 @@
 <img src="./images/Heinlein_Logo.webp" alt="drawing" width="60%"/>
 
+> [!IMPORTANT]  
+> Die Fortsetzung des Workshops aus dem Jahr 2024 findet ihr hier: [https://github.com/HeinleinSupport/rspamd-slac-2024](https://github.com/HeinleinSupport/rspamd-slac-2024)
+>
+> Die Fortsetzung des Workshops aus dem Jahr 2025 findet ihr hier: [https://github.com/HeinleinSupport/rspamd-slac-2025](https://github.com/HeinleinSupport/rspamd-slac-2025)
+
 # Sichere Mailcluster mit Rspamd, Spamhaus DQS und PeekabooAV
 
 __Workshop auf der SLAC 2023__
